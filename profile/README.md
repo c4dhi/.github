@@ -4,12 +4,12 @@ Welcome to the **Centre for Digital Health Interventions (CDHI)** GitHub organiz
 
 ## **Who We Are**
 The **CDHI** is a joint initiative of:  
-- The **Institute for Implementation Science in Health Care** at the **University of Zurich**  
-- The **Department of Management, Technology and Economics** at **ETH Zurich**  
-- The **Future Health Technologies Programme** at the **Singapore-ETH Centre**  
+- The **Institute for Implementation Science in Health Care** at the **University of Zurich**
 - The **School of Medicine** and **Institute of Technology Management** at the **University of St. Gallen**  
+- The **Department of Management, Technology and Economics** at **ETH Zurich**  
+- The **Future Health Technologies Programme** at the **Singapore-ETH Centre**   
 
-We are committed to advancing **digital health solutions** to improve healthcare accessibility, effectiveness, and efficiency.  
+We are committed to advancing **digital health technologies** to improve healthcare accessibility, effectiveness, and efficiency.  
 
 ## **Our Mission**  
 We envision a world where **tailored digital healthcare solutions** are effective and available to those in need.  
