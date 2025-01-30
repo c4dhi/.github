@@ -35,7 +35,7 @@ Some of our key focus areas include:
 If you’d like to contribute, please check out our repositories or reach out to us!  
 
 ## **Contact Us**  
-📧 Email: tobias.kowatsch@unisg.ch [tobias.kowatsch@unisg.ch](mailto:tobias.kowatsch@unisg.ch)  
+📧 Email: [tobias.kowatsch@unisg.ch](mailto:tobias.kowatsch@unisg.ch)  
 🌍 Website: [www.cdhi.org](https://www.cdhi.org) 
 
 ---  
